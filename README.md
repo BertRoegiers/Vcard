@@ -2,4 +2,4 @@
 
 ## This is my info page.
 
-url: https://bertroegiers.github.io/Vcard/.
+url: https://bertroegiers.github.io/Vcard/Vcard.html
