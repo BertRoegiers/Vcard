@@ -3,16 +3,17 @@ body {
 }
 p {
   color:white;
-  position: relative;
-  left: 525px;
-  top: 250px;
   font-family: arial;
   font-size: 20px;
-    }
-img {
-  height:auto;
-  width:300px;
-  position:absolute;
-  left:auto;
-  right:600px;
   }
+img {
+  height: 150px;
+  margin-top: 50px;
+  margin-left: 25px;
+    }
+.card {
+  width: 500px;
+  border:5px solid white;
+  display:flex;
+  justify-content: center;
+}
