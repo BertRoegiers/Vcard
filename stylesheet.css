@@ -3,10 +3,11 @@ body {
 }
 p {
   color:white;
-  }
-  p{
-    position: relative;
-    left: 525px;
+  position: relative;
+  left: 525px;
+  top: 250px;
+  font-family: arial;
+  font-size: 20px;
     }
 img {
   height:auto;
