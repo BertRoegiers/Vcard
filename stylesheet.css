@@ -1,8 +1,9 @@
 body {
   background-color: #676C71;
-}
+  background-image: url(https://cdn11.bigcommerce.com/s-sq9zkarfah/images/stencil/original/products/100482/194852/Yamaha-Logo-Pinup-Decal-Sticker__29829.1511158261.jpg?c=2&imbypass=on);
+  }
 p {
-  color:white;
+  color: white;
   font-family: arial;
   font-size: 20px;
   }
@@ -10,10 +11,12 @@ img {
   height: 150px;
   margin-top: 50px;
   margin-left: 25px;
-    }
+  }
 .card {
   width: 500px;
   border:5px solid white;
   display:flex;
   justify-content: center;
-}
+  background-color: black;
+  float: right;
+  }
